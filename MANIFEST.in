@@ -1,0 +1,3 @@
+graft mlproject_tryme
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  mlproject_tryme/jupy *
