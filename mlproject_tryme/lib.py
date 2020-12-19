@@ -48,7 +48,7 @@ def clean_data(data):
     return data
 
 def try_me():
-    print("congratulations you've just tried me")
+    print("congratulations you've just tried me and I was deployed from github actions")
 
 
 if __name__ == '__main__':
